@@ -1,3 +1,6 @@
 .env
 .idea
 .vscode
+
+/data/*
+!/data/.gitkeep
